@@ -55,3 +55,6 @@ The problem of diagnosing breast cancer as malignant or benign is a binary class
 ![image](https://user-images.githubusercontent.com/115505106/231871681-75231e3f-91fc-40f3-a9e0-4a2bd635a810.png)
 
 ### Conclusion
+
+### Limitation
+This research project will solely focus on analyzing the Breast Cancer Wisconsin (Diagnostic) dataset, which contains information on ten specific features of cell nuclei extracted from fine needle aspirate images of breast masses. It is important to note that the dataset's limited scope excludes other possible risk factors and clinical data that could impact breast cancer diagnosis. Furthermore, this study will solely evaluate the performance of the selected supervised learning algorithms and may not consider alternative algorithms or techniques that may prove more effective for diagnosing breast cancer.
