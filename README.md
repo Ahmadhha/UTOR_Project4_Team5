@@ -19,7 +19,7 @@ Among the various supervised learning algorithms evaluated in this study using t
 
 ## Methods
 
-### MACHINE LEARNING ANALYSIS TO BE PERFORMED
+### Machine Learning Analysis Performed
 Diagnosis of breast masses as benign or malignant: Machine learning analysis will be performed on this dataset to build a predictive model that can distinguish between benign and malignant breast masses.
 
 5 Supervised learning and 1 unsupervised learning models will be compared to identified that most optimum algorithm for this data set.
