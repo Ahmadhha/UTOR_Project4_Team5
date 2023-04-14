@@ -5,9 +5,13 @@
 # Comparing Supervised and Unsupervised Learning Models for Breast Cancer Diagnosis
 
 [Data Extraction](https://github.com/Ahmadhha/UTOR_Project4_Team5/blob/main/Data%20Extraction.ipynb)
+
 [Machine Learning Analysis](https://github.com/Ahmadhha/UTOR_Project4_Team5/blob/main/Machine%20Learning.ipynb)
+
 [Data Visualization](https://public.tableau.com/app/profile/andreza.dos.santos6466/viz/BreastCancer-MeanProject/Story1?publish=yes)
+
 [Evaluation Performance Comparison](https://public.tableau.com/authoring/Performance_Comparison/Models_Evaluation_Performance#1)
+
 [Data Source](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data?select=data.csv)
 
 ## Background
