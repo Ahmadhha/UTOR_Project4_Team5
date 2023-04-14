@@ -1,5 +1,5 @@
 #UTOR_Project4_Team5
-#Comparing Different Machine Learning Algorithms for Breast Cancer Diagnosis
+#Comparing Different Machine Learning Models for Breast Cancer Diagnosis
 
 
 # Comparing Supervised and Unsupervised Learning Algorithms for Breast Cancer Diagnosis
