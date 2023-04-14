@@ -1,0 +1,7 @@
+Models,Precision
+Logistic Regression,0.965
+Decision Tree,0.974
+Random Forest,0.974
+SVM,0.965
+Optimized Neural Network,0.991
+KNN,0.974

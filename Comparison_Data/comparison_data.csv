@@ -1,0 +1,7 @@
+Models,Accuracy,Precision
+Logistic Regression,0.956140351,0.965
+Decision Tree,0.938596491,0.974
+Random Forest,0.964912281,0.974
+SVM,0.956140351,0.965
+Optimized Neural Network,0.98245614,0.991
+KNN,0.947368421,0.974
