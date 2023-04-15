@@ -25,9 +25,6 @@ Despite the promising results, the development of accurate and reliable machine 
 
 Therefore, the goal of this study is to develop and evaluate various machine learning models for breast cancer diagnosis using a large, publicly available dataset. Specifically, we aim to compare the performance of logistic regression, decision trees, random forests, support vector machines, neural networks, and KNN on the dataset and determine which model is most effective for predicting breast cancer diagnosis. Also, we will explore various feature selection and performance evaluation techniques to optimize the models and provide insights into the relevant features that contribute to accurate diagnosis. The results of this study could have significant implications for improving the accuracy and efficiency of breast cancer diagnosis and eventually improving diagnostic outcomes.
 
-## Limitation
-This research project solely focused on analyzing the Breast Cancer Wisconsin (Diagnostic) dataset, which contains information on ten specific features of cell nuclei extracted from fine needle aspirate images of breast masses. It is important to note that the dataset's limited scope excludes other possible risk factors and clinical data that could impact breast cancer diagnosis. Furthermore, this study solely evaluate the performance of the selected supervised and unupervised learning algorithms and may not consider alternative algorithms or techniques that may prove more effective for diagnosing breast cancer.
-
 ## Research Question
 Among the various supervised and unsupervised learning algorithms evaluated in this study using the Breast Cancer Wisconsin (Diagnostic) dataset, which one performed the most effective in accurately classifying breast cancer as malignant or benign?
 
@@ -67,6 +64,11 @@ The problem of diagnosing breast cancer as malignant or benign is a binary class
 <img width="187" alt="image" src="https://user-images.githubusercontent.com/115505106/231871601-81f92ca8-1ebb-42bc-9cc6-4c9e4c2bd670.png">
 
 ![image](https://user-images.githubusercontent.com/115505106/231871681-75231e3f-91fc-40f3-a9e0-4a2bd635a810.png)
+
+
+## Limitation
+This research project solely focused on analyzing the Breast Cancer Wisconsin (Diagnostic) dataset, which contains information on ten specific features of cell nuclei extracted from fine needle aspirate images of breast masses. It is important to note that the dataset's limited scope excludes other possible risk factors and clinical data that could impact breast cancer diagnosis. Furthermore, this study solely evaluate the performance of the selected supervised and unupervised learning algorithms and may not consider alternative algorithms or techniques that may prove more effective for diagnosing breast cancer.
+
 
 ### Conclusion
 
