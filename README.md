@@ -33,6 +33,9 @@ Among the various supervised and unsupervised learning algorithms evaluated in t
 ### Machine Learning Analysis Performed
 Diagnosis of breast masses as benign or malignant: Machine learning analysis will be performed on this dataset to build a predictive model that can distinguish between benign and malignant breast masses.
 
+### Diagnosis of breast masses ( benign or malignant)
+The problem of diagnosing breast cancer as malignant or benign is a binary classification problem, as there are only two possible outcomes. Therefore, we can build a binary classification model using supervised learning algorithms.
+
 5 Supervised learning and 1 unsupervised learning models will be compared to identified that most optimum algorithm for this data set.
 
 ### Supervised learning algorithms to explore are:
@@ -44,9 +47,6 @@ Diagnosis of breast masses as benign or malignant: Machine learning analysis wil
 
 ### Unupervised learning algorithms to explore is:
   - K-Nearest-Neighbour (KNN)
-
-### Diagnosis of breast masses ( benign or malignant)
-The problem of diagnosing breast cancer as malignant or benign is a binary classification problem, as there are only two possible outcomes. Therefore, we can build a binary classification model using supervised learning algorithms.
 
 
 ## Results
