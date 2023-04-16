@@ -68,6 +68,13 @@ In terms of recall, Random Forest attained the highest score at 95.81%, while SV
 
 Overall, the Random Forest model performed the best among the models with high scores across all metrics. However, the differences in performance between the models were relatively small, and other factors such as computational resources and interpretability may influence the choice of model to use.
 
+## Recommendation
+Based on the evaluation results, the Random Forest model appears to be the best-performing model among the options provided, exhibiting high accuracy, precision, recall, and F1-score. Therefore, it is recommended that the Random Forest model be considered for deployment in the relevant application.
+
+However, it is important to note that the choice of model to use ultimately depends on various factors such as the specific requirements of the problem, available computational resources, interpretability needs, and other relevant considerations like datasets size. The choice of machine learning algorithm can also impact how well the model performs on larger datasets. For example, some algorithms such as decision trees and linear regression may not scale well to very large datasets, while others such as random forests and neural networks may be better suited for larger datasets.
+
+Therefore, it is important to carefully consider all relevant factors when making a final decision on which model to use.
+
 
 ### Disclaimer
 The Breast Cancer Wisconsin (Diagnostic) dataset is made available for academic purposes only. The dataset contains information on characteristics of cell nuclei present in fine needle aspirate (FNA) images of breast masses. The dataset is intended to be used for research and educational purposes only and not for gaining commercial benefits. The dataset does not contain any sensitive personal information of individuals. The dataset is provided as is, without any warranty, express or implied, including without limitation, warranties of merchantability or fitness for a particular purpose. Users are responsible for ensuring that their use of the dataset complies with all applicable laws and regulations. The creators and distributors of the dataset are not liable for any damages arising from the use of the dataset.
