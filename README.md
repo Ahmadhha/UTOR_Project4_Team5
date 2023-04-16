@@ -6,11 +6,11 @@
 
 [Data Extraction](https://github.com/Ahmadhha/UTOR_Project4_Team5/blob/main/Data%20Extraction.ipynb)
 
-[Machine Learning Analysis](https://github.com/Ahmadhha/UTOR_Project4_Team5/blob/main/Machine%20Learning.ipynb)
-
 [Data Visualization](https://public.tableau.com/app/profile/andreza.dos.santos6466/viz/BreastCancer-MeanProject/Story1?publish=yes)
 
-[Evaluation Performance Comparison](https://public.tableau.com/authoring/Performance_Comparison/Models_Evaluation_Performance#1)
+[Machine Learning Analysis](https://github.com/Ahmadhha/UTOR_Project4_Team5/blob/main/Machine%20Learning.ipynb)
+
+[Model Performance Metrics Comparison](https://public.tableau.com/app/profile/mtanguin/viz/ModelPerformanceMetricsComparison/Dashboard1#1)
 
 [Data Source](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data?select=data.csv)
 
@@ -51,19 +51,10 @@ The problem of diagnosing breast cancer as malignant or benign is a binary class
 
 ## Results
 
-### Accuracy
-
-<img width="181" alt="image" src="https://user-images.githubusercontent.com/115505106/231871921-1ce96e2d-adf0-4146-bae0-3f6cb2472b62.png">
 
 
-![image](https://user-images.githubusercontent.com/115505106/231871653-2d148649-b063-45b1-8193-b68bc0d1d18e.png)
+![Performance Model Metrics Comparison](https://user-images.githubusercontent.com/114210481/232283305-462a7c37-43f0-4104-ad06-e3af3e3e8778.jpg)
 
-
-### Precision
-
-<img width="187" alt="image" src="https://user-images.githubusercontent.com/115505106/231871601-81f92ca8-1ebb-42bc-9cc6-4c9e4c2bd670.png">
-
-![image](https://user-images.githubusercontent.com/115505106/231871681-75231e3f-91fc-40f3-a9e0-4a2bd635a810.png)
 
 
 ## Limitation
@@ -71,7 +62,18 @@ This research project solely focused on analyzing the Breast Cancer Wisconsin (D
 
 
 ## Conclusion
+The evaluation results indicate that all of the models exhibit high accuracy rates, with Random Forest achieving the highest accuracy at 96.49%, followed by Logistic Regression and SVM with 95.61%. Furthermore, the precision scores for all models are also high, with Random Forest attaining the highest precision score of 96.73%, closely followed by SVM and Logistic Regression with 96.05%.
 
+In terms of recall, Random Forest attained the highest score at 95.81%, while SVM and Logistic Regression recorded 94.64%. The F1-score, which measures the trade-off between precision and recall, is highest for Random Forest at 96.23%, with the Optimized Neural Network following closely at 95.39%.
+
+Overall, the Random Forest model performed the best among the models with high scores across all metrics. However, the differences in performance between the models were relatively small, and other factors such as computational resources and interpretability may influence the choice of model to use.
+
+## Recommendation
+Based on the evaluation results, the Random Forest model appears to be the best-performing model among the options provided, exhibiting high accuracy, precision, recall, and F1-score. Therefore, it is recommended that the Random Forest model be considered for deployment in the relevant application.
+
+However, it is important to note that the choice of model to use ultimately depends on various factors such as the specific requirements of the problem, available computational resources, interpretability needs, and other relevant considerations like datasets size. The choice of machine learning algorithm can also impact how well the model performs on larger datasets. For example, some algorithms such as decision trees and linear regression may not scale well to very large datasets, while others such as random forests and neural networks may be better suited for larger datasets.
+
+Therefore, it is important to carefully consider all relevant factors when making a final decision on which model to use.
 
 
 ### Disclaimer
