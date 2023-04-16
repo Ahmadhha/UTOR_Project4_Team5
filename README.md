@@ -51,19 +51,10 @@ The problem of diagnosing breast cancer as malignant or benign is a binary class
 
 ## Results
 
-### Accuracy
-
-<img width="181" alt="image" src="https://user-images.githubusercontent.com/115505106/231871921-1ce96e2d-adf0-4146-bae0-3f6cb2472b62.png">
 
 
-![image](https://user-images.githubusercontent.com/115505106/231871653-2d148649-b063-45b1-8193-b68bc0d1d18e.png)
+![Performance Model Metrics Comparison](https://user-images.githubusercontent.com/114210481/232283305-462a7c37-43f0-4104-ad06-e3af3e3e8778.jpg)
 
-
-### Precision
-
-<img width="187" alt="image" src="https://user-images.githubusercontent.com/115505106/231871601-81f92ca8-1ebb-42bc-9cc6-4c9e4c2bd670.png">
-
-![image](https://user-images.githubusercontent.com/115505106/231871681-75231e3f-91fc-40f3-a9e0-4a2bd635a810.png)
 
 
 ## Limitation
