@@ -45,7 +45,7 @@ The problem of diagnosing breast cancer as malignant or benign is a binary class
   - Support Vector Machine (SVM)
   - Neural Network
 
-### Unupervised learning algorithms to explore is:
+### Unsupervised learning algorithms to explore is:
   - K-Nearest-Neighbour (KNN)
 
 
