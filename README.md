@@ -62,7 +62,11 @@ This research project solely focused on analyzing the Breast Cancer Wisconsin (D
 
 
 ## Conclusion
+The evaluation results indicate that all of the models exhibit high accuracy rates, with Random Forest achieving the highest accuracy at 96.49%, followed by Logistic Regression and SVM with 95.61%. Furthermore, the precision scores for all models are also high, with Random Forest attaining the highest precision score of 96.73%, closely followed by SVM and Logistic Regression with 96.05%.
 
+In terms of recall, Random Forest attained the highest score at 95.81%, while SVM and Logistic Regression recorded 94.64%. The F1-score, which measures the trade-off between precision and recall, is highest for Random Forest at 96.23%, with the Optimized Neural Network following closely at 95.39%.
+
+Overall, the Random Forest model performed the best among the models with high scores across all metrics. However, the differences in performance between the models were relatively small, and other factors such as computational resources and interpretability may influence the choice of model to use.
 
 
 ### Disclaimer
