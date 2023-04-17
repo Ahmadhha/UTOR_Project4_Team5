@@ -2,7 +2,7 @@
 #Comparing Different Machine Learning Models for Breast Cancer Diagnosis
 
 
-# Comparing Supervised & Unsupervised Learning Models for Breast Cancer Diagnosis
+# Comparing Supervised and Unsupervised Machine Learning Algorithms for Breast Cancer Diagnosis
 
 [Data Extraction](https://github.com/Ahmadhha/UTOR_Project4_Team5/blob/main/Data%20Extraction.ipynb)
 
