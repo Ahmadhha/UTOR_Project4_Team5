@@ -14,6 +14,8 @@
 
 [Data Source](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data?select=data.csv)
 
+[Presentation](https://docs.google.com/presentation/d/1HRPYjpFacVPwD4IIRp076iLtkR5-W-82ltuACiWLI4s/edit?usp=sharing)
+
 ## Background
 Breast cancer is the most commonly diagnosed cancer among women globally, with an estimated 2.3 million new cases and 685,000 deaths in 2020. Early detection and diagnosis of breast cancer are critical for improving diagnostic outcomes and reducing mortality rates. According to the journal, The Breast, by 2040 the breast cancer burden will increase to more than 3 million new cases per year (an increase of 40%) and more than 1 million deaths per year (an increase of 50%).
 Medical imaging techniques such as mammography and ultrasound, as well as histopathological examination of tissue samples obtained through biopsy, are commonly used to diagnose breast cancer.
