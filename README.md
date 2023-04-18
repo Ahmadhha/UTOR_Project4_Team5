@@ -26,7 +26,7 @@ Despite the promising results, the development of accurate and reliable machine 
 Therefore, the goal of this study is to develop and evaluate various machine learning models for breast cancer diagnosis using a large, publicly available dataset. Specifically, we aim to compare the performance of logistic regression, decision trees, random forests, support vector machines, neural networks, and KNN on the dataset and determine which model is most effective for predicting breast cancer diagnosis. Also, we will explore various feature selection and performance evaluation techniques to optimize the models and provide insights into the relevant features that contribute to accurate diagnosis. The results of this study could have significant implications for improving the accuracy and efficiency of breast cancer diagnosis and eventually improving diagnostic outcomes.
 
 ## Research Question
-Among the various supervised learning algorithms to be evaluated in this study using the Breast Cancer Wisconsin (Diagnostic) dataset, which one performed the most effective in accurately classifying breast cancer as malignant or benign?
+Among the various supervised learning algorithms to be evaluated in this study using the Breast Cancer Wisconsin dataset, which one performed the most effective in accurately classifying breast cancer as malignant or benign?
 
 ## Methods
 
